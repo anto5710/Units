@@ -1,0 +1,7 @@
+name: Units
+main: gmail.anto5710.mcp.units.main.Units
+version: 0.0.1
+
+commands:
+    titan:
+        description: 
